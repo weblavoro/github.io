@@ -17,5 +17,5 @@ main:
       - title: "Da dove cominciare?"
         url: /docs/da-dove-cominciare/
         children:
-      - title: "Cosa mi serve ?"
+      - title: "Cosa mi serve?"
         url: /docs/cosa-mi-serve/    
