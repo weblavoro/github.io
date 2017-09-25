@@ -81,8 +81,8 @@ analytics:
 author:
   name             : "Web Lavoro"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
+  bio              : "La tua guida per lavorare da casa, Online."
+  location         : 
   email            :
   uri              :
   bitbucket        :
