@@ -3,6 +3,8 @@ layout: archive
 title: "Guida"
 permalink: /guida/
 author_profile: false
+sidebar:
+  nav: "docs"
 ---
 
 {% include base_path %}
