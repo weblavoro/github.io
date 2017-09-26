@@ -14,8 +14,8 @@
  docs:
   - title: "Guida"
     children:
-      - title: "Da dove cominciare?"
-        url: /docs/da-dove-cominciare/
+      - title: "Come lavorare online"
+        url: /docs/come-lavorare-online/
         children:
-      - title: "Cosa mi serve?"
-        url: /docs/cosa-mi-serve/    
+      - title: "Comprendere il Gratis"
+        url: /docs/comprendere-il-gratis/    
