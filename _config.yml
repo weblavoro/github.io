@@ -13,7 +13,7 @@ title                    : "Web Lavoro"
 title_separator          : "-"
 name                     : "Weblavoro"
 description              : "Lavorare da Casa, Online."
-url                      : "https://weblavoro.github.io"
+url                      : https://weblavoro.github.io
 baseurl                  : "/weblavoro.github.io"
 repository               : "weblavoro/weblavoro.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
