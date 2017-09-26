@@ -11,8 +11,8 @@ modified: 2017-09-26
 
 Sì, **puoi fare soldi su Internet**.
 
-Sì, potenzialmente **chiunque può guadagnare sul web**, non solo gli informatici più smaliziati.
+Sì, potenzialmente **chiunque può guadagnare sul web**, non solo i tecnici informatici più smaliziati.
 
 Detto questo, **chi promette rapidi guadagni col minimo sforzo vi sta raccontando una balla e, con ogni probabilità, vuole rifilarvi qualcosa.**
 
-Noi di **Web Lavoro** non vogliamo certamente demoralizzare i nostri lettori, ma tantomeno **abbindolarli** com'è uso comune fare in altri siti web e social network.
+Noi di **Web Lavoro** non vogliamo certamente demoralizzare i nostri lettori, ma tantomeno **abbindolarli** com'è uso comune fare in altri siti web e social network...quindi prima di entrare nel merito, cominceremo **sfatando qualche mito**.
