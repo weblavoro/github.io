@@ -5,7 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
+minimal_mistakes_skin    : "air" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
 locale                   : "it"
@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Web Lavoro"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "La tua guida per lavorare da casa, Online, senza truffe e facili promesse. Costruisci la tua carriera Digitale"
+  bio              : "La tua guida per lavorare da casa, Online, senza truffe e false promesse. Costruisci la tua carriera Digitale"
   location         : 
   email            :
   uri              :
@@ -177,7 +177,7 @@ sass:
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: +4154+01229 # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins (previously gems:)
