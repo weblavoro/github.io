@@ -19,7 +19,7 @@ feature_row:
     alt: "fully responsive"
     title: "La Guida al Lavoro Online"
     excerpt: "Tutto ciò che c'è da sapere sul mondo del lavoro su internet, senza fronzoli e fake news"
-    url: "/docs/layouts/"
+    url: "/guida/"
     btn_label: "Learn More"
   - image_path: mm-free-feature.png
     alt: "100% free"
