@@ -12,7 +12,7 @@ feature_row:
   - image_path: mm-customizable-feature.png
     alt: "customizable"
     title: "Opportunità di Carriera"
-    excerpt: "Impara come valorizzare le tue abilità su Upwork, Freelancer e altre piattaforme di lavoro online"
+    excerpt: "Impara a valorizzare le tue capacità, scopri Upwork, Freelancer, Appen e altre piattaforme di lavoro online"
     url: "/docs/configuration/"
     btn_label: "Continua"
   - image_path: mm-responsive-feature.png
@@ -20,17 +20,17 @@ feature_row:
     title: "La Guida al Lavoro Online"
     excerpt: "Tutto ciò che c'è da sapere sul mondo del lavoro su internet, senza fronzoli e fake news"
     url: "/guida/"
-    btn_label: "Learn More"
+    btn_label: "Continua"
   - image_path: mm-free-feature.png
     alt: "100% free"
     title: "Recensioni & Notizie"
     excerpt: "Il tuo giornale online di fiducia interamente dedicato al mondo del lavoro in rete"
     url: "/docs/license/"
-    btn_label: "Learn More"
+    btn_label: "Continua"
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Segui la nostra pagina facebook per restare sempre aggiornato &nbsp; [<i class="fa fa-facebook"></i> @mmistakes](https://facebook.com/weblavoro){: .btn .btn--facebook}'
+  - excerpt: 'Seguci su facebook per restare sempre aggiornato &nbsp; [<i class="fa fa-facebook"></i> @weblavoro](https://facebook.com/weblavoro){: .btn .btn--facebook}'
 ---
 
 {% include feature_row id="intro" type="center" %}
