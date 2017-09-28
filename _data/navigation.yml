@@ -2,12 +2,16 @@
  main:
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "Chi siamo"
-    url: /about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
   - title: "Guida al Web Lavoro"
     url: /guida/
+  - title: "Chi siamo"
+    url: /about/
+  - title: "Privacy"
+    url: /privacy/
+  - title: "Contatti"
+    url: /contatti/        
+  # - title: "Sample Posts"
+  #   url: /year-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
 

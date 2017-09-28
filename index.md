@@ -30,7 +30,7 @@ feature_row:
 github:
   - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Seguci su facebook per restare sempre aggiornato &nbsp; [<i class="fa fa-facebook"></i> @weblavoro](https://facebook.com/weblavoro){: .btn .btn--facebook}'
+  - excerpt: 'Seguiteci su facebook per restare sempre aggiornati &nbsp; [<i class="fa fa-facebook"></i> @weblavoro](https://facebook.com/weblavoro){: .btn .btn--facebook}'
 ---
 
 {% include feature_row id="intro" type="center" %}
