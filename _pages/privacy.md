@@ -5,7 +5,7 @@ permalink: /privacy/
 author_profile: false
 ---
 
-_Web Lavoro_ è finanziato da annunci pubblicitari **Google AdSense**, per saperne di più sulla normativa della privacy del servizio, invitiamo a consultare le [**Norme del programma AdSense**](https://support.google.com/adsense/answer/48182?hl=it) 
+_Web Lavoro_ è finanziato da annunci pubblicitari **Google AdSense**, per saperne di più sulla normativa della privacy del servizio, invitiamo a consultare le [Norme del programma AdSense](https://support.google.com/adsense/answer/48182?hl=it) 
 
 Oltre a ciò, _Web Lavoro_ fa uso dei dati raccolti dall'interazione con gli utenti in accordo con **Google Analytics** e diversi social media, come indicato in seguito:
 
