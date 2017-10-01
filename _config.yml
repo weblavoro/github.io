@@ -80,7 +80,7 @@ analytics:
 # Site Author
 author:
   name             : "Web Lavoro"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/weblavoro-bio-logo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "La tua guida per lavorare da casa, Online, senza truffe e false promesse. Costruisci la tua carriera Digitale"
   location         : 
   email            :
